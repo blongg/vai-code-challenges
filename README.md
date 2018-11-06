@@ -20,7 +20,7 @@ Also, add the following info to your `README`:
 
 ## Details
 
-User your criativity to design the pages/screens in the best way you like.
+User your criativity to design the pages/screens in the best way you like. Also, we can use any global store you want like Redux or Mobx, if you need it.
 
 ## Requirements
 - [ ] Create a List and Detail view for some Users Model
