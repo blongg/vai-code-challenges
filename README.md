@@ -23,10 +23,11 @@ Also, add the following info to your `README`:
 User your criativity to design the pages/screens in the best way you like.
 
 ## Requirements
-- [ ] Create a List and Detail view for some model (e.g: todos, posts, products, users)
-- [ ] it should add an item in the list
-- [ ] it should edit an item in the list
-- [ ] it should delete an item in the list
+- [ ] Create a List and Detail view for some Users Model
+  Use this [API resource](https://randomuser.me/documentation) to generate and fetch mock data for Users. 
+- [ ] it should add an user in the list
+- [ ] it should edit an user in the list
+- [ ] it should delete an user in the list
 - [ ] it should use React or React Native
 - [ ] it should use React Router or React Navigation
 - [ ] it should have private(s) and public(s) page(s)/screen(s)
