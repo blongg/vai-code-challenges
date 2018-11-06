@@ -1,14 +1,14 @@
-# Vai Frontend Challenge
+# VAI Frontend Challenge
 
 ## Overview
 
 To complete this challenge, you will need to write a simple [React](https://facebook.github.io/react/) web app or [React Native](https://facebook.github.io/react-native/) mobile app, and provide us the source files to be built.
 
-The purpose of this challenge is to assess your **skills and approach to composing a simple app** given a set of requirements and resources.  We will also assess the **generated HTML, CSS, and JS** output.
+The purpose of this challenge is to assess your **skills and approach to composing a simple app** given a set of requirements and resources. We will also assess the **generated HTML, CSS, and JS** output.
 
 ## The Challenge
 
-It's pretty simple, this is a basic exercise, we'll be looking for **simple, well-designed and tested code** in the submission.
+We'll be looking for **simple, well-designed and tested code** in the submission.
 
 Please include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
 
@@ -38,8 +38,7 @@ User your criativity to design the pages/screens in the best way you like. Also,
 - [ ] Implement code splitting using react-loadable
 - [ ] Optimize webpack
 - [ ] Create a [storybook] with your components
-- [ ] Test your components with [jest]
+- [ ] Test your components
 
 
 [storybook]: https://github.com/storybooks/storybook
-[jest]: https://jest-everywhere.now.sh
