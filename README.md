@@ -18,24 +18,19 @@ Create a List and Detail view for some Users Model, use this [API resource](http
 - [ ] A login page to give access to restricted area 
 - [ ] In the home page for logged in users
 - [ ] it should display a list of users as documented at https://randomuser.me/documentation#pagination
-- [ ] it should display each item as a card, display all the information available in the API response
-- [ ] it should add an user in the list
-- [ ] it should edit an user in the list
-- [ ] it should delete an user in the list
-- [ ] it should use React Router or React Navigation
-- [ ] it should be open sourced on your github repo
+- [ ] it should display each item as a card with basic information
+- [ ] when I click in a card, it should navigate to the user details and show all the information in the API response.
 
-### Extras requirements (optional)
+### Bonus points
 - [ ] Implement code splitting using react-loadable
-- [ ] Optimize webpack
-- [ ] Create a [storybook](https://github.com/storybooks/storybook) with your components
-- [ ] Test your components
+- [ ] Use [storybook](https://github.com/storybooks/storybook) to develop your components
+- [ ] Test your components with Jest.
 
 ## Expected
 
 ### UI Design
 
-We do not provide a sketch file or prototype, 
+We do not provide a sketch file or prototype, we'll look for basics UI/UX habilities.
 
 ## The Challenge
 
