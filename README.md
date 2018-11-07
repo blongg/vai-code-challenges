@@ -1,8 +1,26 @@
-# VAI Frontend Challenge
+# VAI Frontend UI Engineer
+
+At VAI we work with modern web experiences optimized for mobile and desktop solving the 21th century challanges for the automotive industries at big cities empowering people at work and running his business.
 
 ## Overview
 
-To complete this challenge, you will need to write a simple [React](https://facebook.github.io/react/) web app or [React Native](https://facebook.github.io/react-native/) mobile app, and provide us the source files to be built.
+At this test you are going to build a Proof Of Concept application with the technologies of your choice, the app is going to fetch data from randomuser.com and it consist of:
+
+- [ ] it should display a language picker and change the language as documented at https://randomuser.me/documentation#nationalities
+- [ ] A login page to give access to restricted area 
+- [ ] In the home page for logged in users
+  - [ ] it should display a list of users as documented at https://randomuser.me/documentation#pagination
+  - [ ] it should display each item as a card, display all the information available in the API response
+
+## Expected
+
+### UI Design
+
+We do not provide a sketch file or prototype, 
+
+### Code
+
+To complete this challenge, you will need to write scalable [React](https://facebook.github.io/react/) web app or [React Native](https://facebook.github.io/react-native/) mobile app, and provide us the source files to be built.
 
 The purpose of this challenge is to assess your **skills and approach to composing a simple app** given a set of requirements and resources. We will also assess the **generated HTML, CSS, and JS** output.
 
