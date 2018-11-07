@@ -4,25 +4,38 @@ At VAI we work with modern web experiences optimized for mobile and desktop solv
 
 ## Overview
 
-At this test you are going to build a Proof Of Concept application with the technologies of your choice, the app is going to fetch data from randomuser.com and it consist of:
+At this test you are going to build a Proof Of Concept application with the technologies of your choice, the app is going to fetch data from [randomuser.com](https://randomuser.me).
 
-- [ ] it should display a language picker and change the language as documented at https://randomuser.me/documentation#nationalities
+To complete this challenge, you will need to write scalable [React](https://facebook.github.io/react/) web app or [React Native](https://facebook.github.io/react-native/) mobile app, and provide us the source files to be built.
+
+### Requirements
+
+Create a List and Detail view for some Users Model, use this [API resource](https://randomuser.me/documentation) to generate and fetch mock data for Users. 
+  
+- [ ] it should use React or React Native
+- [ ] it should display a language picker and change the language as documented on [Random Users Nationalities](https://randomuser.me/documentation#nationalities). This will change the translation of users information.
+- [ ] it should have private(s) and public(s) page(s)/screen(s)
 - [ ] A login page to give access to restricted area 
 - [ ] In the home page for logged in users
-  - [ ] it should display a list of users as documented at https://randomuser.me/documentation#pagination
-  - [ ] it should display each item as a card, display all the information available in the API response
+- [ ] it should display a list of users as documented at https://randomuser.me/documentation#pagination
+- [ ] it should display each item as a card, display all the information available in the API response
+- [ ] it should add an user in the list
+- [ ] it should edit an user in the list
+- [ ] it should delete an user in the list
+- [ ] it should use React Router or React Navigation
+- [ ] it should be open sourced on your github repo
+
+### Extras requirements (optional)
+- [ ] Implement code splitting using react-loadable
+- [ ] Optimize webpack
+- [ ] Create a [storybook](https://github.com/storybooks/storybook) with your components
+- [ ] Test your components
 
 ## Expected
 
 ### UI Design
 
 We do not provide a sketch file or prototype, 
-
-### Code
-
-To complete this challenge, you will need to write scalable [React](https://facebook.github.io/react/) web app or [React Native](https://facebook.github.io/react-native/) mobile app, and provide us the source files to be built.
-
-The purpose of this challenge is to assess your **skills and approach to composing a simple app** given a set of requirements and resources. We will also assess the **generated HTML, CSS, and JS** output.
 
 ## The Challenge
 
@@ -38,25 +51,4 @@ Also, add the following info to your `README`:
 
 ## Details
 
-User your criativity to design the pages/screens in the best way you like. Also, we can use any global store you want like Redux or Mobx, if you need it.
-
-## Requirements
-- [ ] Create a List and Detail view for some Users Model
-  Use this [API resource](https://randomuser.me/documentation) to generate and fetch mock data for Users. 
-- [ ] it should add an user in the list
-- [ ] it should edit an user in the list
-- [ ] it should delete an user in the list
-- [ ] it should use React or React Native
-- [ ] it should use React Router or React Navigation
-- [ ] it should have private(s) and public(s) page(s)/screen(s)
-- [ ] it should use inline style
-- [ ] it should be open sourced on your github repo
-
-## Extras requirements (optional)
-- [ ] Implement code splitting using react-loadable
-- [ ] Optimize webpack
-- [ ] Create a [storybook] with your components
-- [ ] Test your components
-
-
-[storybook]: https://github.com/storybooks/storybook
+User your creativity to design the pages/screens in the best way you like. Also, you can use any global store like Redux or Mobx, if you need it.
