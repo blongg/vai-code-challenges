@@ -20,6 +20,9 @@ Create a List and Detail view for some Users Model, use this [API resource](http
 - [ ] it should display a list of users as documented at https://randomuser.me/documentation#pagination
 - [ ] it should display each item as a card with basic information
 - [ ] when I click in a card, it should navigate to the user details and show all the information in the API response.
+- [ ] it should be able to edit an user information
+- [ ] it should be able to delete an user
+
 
 ### Bonus points
 - [ ] Implement code splitting using react-loadable
@@ -46,4 +49,4 @@ Also, add the following info to your `README`:
 
 ## Details
 
-User your creativity to design the pages/screens in the best way you like. Also, you can use any global store like Redux or Mobx, if you need it.
+Use your creativity to design the pages/screens in the best way you like. Also, you can use any global store like Redux or Mobx, if you need it.
