@@ -1,5 +1,5 @@
 
-#Vai Full-Stack Code Challenge
+# Vai Full-Stack Code Challenge
 
 Goal: Build an image uploading service.
 
@@ -17,4 +17,4 @@ Bonus points for (optional):
 - Hosting a working copy of your app on Heroku;
 - Including tests/specs with your submission;
 
-Please submit your submission as a public git repository only, and send us the link to this repository for the email people@vai.car. If you have any questions, please feel free to ask.
+Please submit your submission as a public git repository only, and send us the repository link to the email people@vai.car. If you have any questions, please feel free to ask.
